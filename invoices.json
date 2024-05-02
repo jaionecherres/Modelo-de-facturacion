@@ -1,0 +1,65 @@
+[
+    {
+        "factura": 1,
+        "Fecha": "2024-04-22",
+        "cliente": "Daniel Vera",
+        "subtotal": 10.0,
+        "descuento": 1.0,
+        "iva": 1.08,
+        "total": 10.08,
+        "detalle": [
+            {
+                "poducto": "aceite",
+                "precio": 2.0,
+                "cantidad": 2
+            },
+            {
+                "poducto": "Coca Cola",
+                "precio": 1.5,
+                "cantidad": 4
+            }
+        ]
+    },
+    {
+        "factura": 2,
+        "Fecha": "2024-04-27",
+        "cliente": "Taylor Swift",
+        "subtotal": 55.0,
+        "descuento": 5.5,
+        "iva": 5.94,
+        "total": 55.44,
+        "detalle": [
+            {
+                "poducto": "aceite",
+                "precio": 2.0,
+                "cantidad": 20
+            },
+            {
+                "poducto": "Coca Cola",
+                "precio": 1.5,
+                "cantidad": 10
+            }
+        ]
+    },
+    {
+        "factura": 3,
+        "Fecha": "2024-04-28",
+        "cliente": "Jaione",
+        "subtotal": 5.5,
+        "descuento": 0.55,
+        "iva": 0.59,
+        "total": 5.54,
+        "detalle": [
+            {
+                "poducto": "Manzana",
+                "precio": 0.5,
+                "cantidad": 5
+            },
+            {
+                "poducto": "Pan",
+                "precio": 1.5,
+                "cantidad": 2
+            }
+        ]
+    }
+]

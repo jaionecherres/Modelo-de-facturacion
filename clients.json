@@ -1,0 +1,44 @@
+[
+    {
+        "dni": "09",
+        "nombre": "Daniel",
+        "apellido": "Vera",
+        "valor": 0.1
+    },
+    {
+        "dni": "0914192144",
+        "nombre": "Dayanna",
+        "apellido": "Vera",
+        "valor": 10000
+    },
+    {
+        "dni": "4444444444",
+        "nombre": "Dulce",
+        "apellido": "Villacis",
+        "valor": 10000
+    },
+    {
+        "dni": "6666666666",
+        "nombre": "Alexandra",
+        "apellido": "Cevallos",
+        "valor": 0.1
+    },
+    {
+        "dni": "1111111111",
+        "nombre": "Taylor",
+        "apellido": "Swift",
+        "valor": 0.1
+    },
+    {
+        "dni": "0952844595",
+        "nombre": "Jaione",
+        "apellido": "Cherres",
+        "valor": 10000
+    },
+    {
+        "dni": "0605899863",
+        "nombre": "Naigel",
+        "apellido": "Enriquez",
+        "valor": 0.1
+    }
+]
